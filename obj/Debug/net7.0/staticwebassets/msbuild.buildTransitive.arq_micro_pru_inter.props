@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\arq_micro_pru_inter.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\arq_micro_pru_tiempo.props" />
+</Project>
